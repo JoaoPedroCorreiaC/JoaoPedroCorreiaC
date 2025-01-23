@@ -30,4 +30,4 @@
 
 ![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCorreiaC&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroCorreiaC&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JoaoPedroCorreiaC=anuraghazra&layout=compact)
