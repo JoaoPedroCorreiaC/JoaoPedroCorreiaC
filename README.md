@@ -26,7 +26,7 @@
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </h3>
 
-<h2> Estatísticas:</h2>
+<h2> 📊 Estatísticas:</h2>
 
 ![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCorreiaC&show_icons=true&theme=dark)
 
