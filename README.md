@@ -1,7 +1,7 @@
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo">
 
 <h2> Olá! Eu sou o João Pedro☕</h2>
-<p>Bem-vindo ao meu perfil, que será usado para expor meus projetos pessoais e progresso dos meus estudos na área de desenvolvimento, meu nome é João, mas você pode me chamar de JP, sou um desenvolvedor iniciante apaixonado por computação e pela area de Design. Você pode seguir meu perfil e minhas redes sociais para obter mais informações sobre mim.
+<p>Bem-vindo ao meu perfil, esse perfil será usado para expor meus projetos pessoais e progresso dos meus estudos na área de desenvolvimento, meu nome é João, mas você pode me chamar de JP, sou um desenvolvedor iniciante apaixonado por computação e pela area de Design. Você pode seguir meu perfil e minhas redes sociais para obter mais informações sobre mim.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape.correia/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/jotape.correia/)
