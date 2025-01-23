@@ -32,5 +32,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroCorreiaC&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroCorreiaC&layout=compact)
+
  
