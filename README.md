@@ -1,15 +1,15 @@
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo">
 
-<h1> Olá! Eu sou o João Pedro☕</h1>
-<p>Bem-vindo ao meu perfil, esse perfil será usado para expor meus projetos pessoais e progresso dos meus estudos na área de desenvolvimento, meu nome é João, mas você pode me chamar de JP, sou um desenvolvedor iniciante apaixonado por computação e pela area de Design. Você pode seguir meu perfil e minhas redes sociais para obter mais informações sobre mim.
+<h2> Olá! Eu sou o João Pedro☕</h2>
+<p>Bem-vindo ao meu perfil, que será usado para expor meus projetos pessoais e progresso dos meus estudos na área de desenvolvimento, meu nome é João, mas você pode me chamar de JP, sou um desenvolvedor iniciante apaixonado por computação e pela area de Design. Você pode seguir meu perfil e minhas redes sociais para obter mais informações sobre mim.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape.correia/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/jotape.correia/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcorreia0701/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dBVvhwB288)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jotapecorreia/)
  </p>
 
-<h3> 🛠 Habilidades:
+<h3> Conhecimentos:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,8 +26,10 @@
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </h3>
 
-<h3> 📊 Estatísticas:</h3>
+<h2> Estatisticas:</h2>
 
 ![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCorreiaC&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JoaoPedroCorreiaC=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroCorreiaC&layout=compact)
+ 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroCorreiaC&theme=dark&hide_border=false)
